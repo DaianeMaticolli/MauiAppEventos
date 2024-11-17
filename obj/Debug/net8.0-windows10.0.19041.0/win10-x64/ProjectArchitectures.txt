@@ -1,0 +1,1 @@
+C:\Users\daian\Desktop\Aulas_dev\MauiAppEventos\MauiAppEventos\MauiAppEventos.csproj;x64
